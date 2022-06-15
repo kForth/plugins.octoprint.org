@@ -18,10 +18,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 3228,
-            "install_events_month": 185,
-            "instances_week": 2559,
-            "install_events_week": 37
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -39,9 +39,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/growl/notification.png",
         "abandoned": true,
         "stats": {
-            "instances_month": 13,
+            "instances_month": 0,
             "install_events_month": 0,
-            "instances_week": 10,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -59,9 +59,9 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 186,
-            "install_events_month": 8,
-            "instances_week": 141,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -84,10 +84,10 @@
         "image": "https://github.com/imrahil/OctoPrint-NavbarTemp/blob/master/images/navbar.png?raw=true",
         "abandoned": false,
         "stats": {
-            "instances_month": 15946,
-            "install_events_month": 1100,
-            "instances_week": 12189,
-            "install_events_week": 197
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -109,10 +109,10 @@
         "image": "https://markwal.github.io/octoprint-download/gpx.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 449,
-            "install_events_month": 52,
-            "instances_week": 337,
-            "install_events_week": 9
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -134,10 +134,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/customControl/img4.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 2213,
-            "install_events_month": 110,
-            "instances_week": 1718,
-            "install_events_week": 23
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -175,10 +175,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 98,
-            "install_events_month": 8,
-            "instances_week": 72,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -200,10 +200,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/systemCommandEditor/img1.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 1249,
-            "install_events_month": 66,
-            "instances_week": 981,
-            "install_events_week": 8
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -221,9 +221,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/editorCollection/img1.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 79,
-            "install_events_month": 3,
-            "instances_week": 67,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -246,10 +246,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/screensquish/squishsample.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 78,
-            "install_events_month": 8,
-            "instances_week": 62,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -271,10 +271,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/stlviewer/screenshot.jpg",
         "abandoned": false,
         "stats": {
-            "instances_month": 1952,
-            "install_events_month": 208,
-            "instances_week": 1437,
-            "install_events_week": 35
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -295,9 +295,9 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 62,
-            "install_events_month": 1,
-            "instances_week": 39,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -320,10 +320,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/requestspinner/requestspinner.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 208,
-            "install_events_month": 6,
-            "instances_week": 172,
-            "install_events_week": 3
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -344,10 +344,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 1441,
-            "install_events_month": 55,
-            "instances_week": 1129,
-            "install_events_week": 7
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -369,10 +369,10 @@
         "image": "https://raw.githubusercontent.com/AmedeeBulle/StatusLine/master/status_line.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 239,
-            "install_events_month": 15,
-            "instances_week": 199,
-            "install_events_week": 7
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -390,9 +390,9 @@
         "image": "http://i.imgur.com/Xs1xGHu.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 60,
-            "install_events_month": 2,
-            "instances_week": 51,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -415,10 +415,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/octobullet/example_push.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 340,
-            "install_events_month": 9,
-            "instances_week": 262,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -440,10 +440,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/eeprom_repetier/eeprom_values.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 220,
-            "install_events_month": 17,
-            "instances_week": 158,
-            "install_events_week": 5
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -465,10 +465,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/displayprogress/example.jpg",
         "abandoned": false,
         "stats": {
-            "instances_month": 2172,
-            "install_events_month": 162,
-            "instances_week": 1589,
-            "install_events_week": 35
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -490,10 +490,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/eeprom_marlin/firmware_info.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 5071,
-            "install_events_month": 483,
-            "instances_week": 3744,
-            "install_events_week": 90
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -515,10 +515,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/stats/img1.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 1371,
-            "install_events_month": 99,
-            "instances_week": 1006,
-            "install_events_week": 23
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -540,10 +540,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/automaticshutdown/sidebar.png",
         "abandoned": true,
         "stats": {
-            "instances_month": 640,
-            "install_events_month": 83,
-            "instances_week": 401,
-            "install_events_week": 17
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -565,10 +565,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/displayz/displayz.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 2266,
-            "install_events_month": 100,
-            "instances_week": 1707,
-            "install_events_week": 14
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -589,10 +589,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 883,
-            "install_events_month": 58,
-            "instances_week": 739,
-            "install_events_week": 7
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -614,10 +614,10 @@
         "image": "https://billyblaze.github.io/OctoPrint-TouchUI/images/touchuisample.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 10572,
-            "install_events_month": 1173,
-            "instances_week": 7768,
-            "install_events_week": 258
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -639,10 +639,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/slack/slack.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 63,
-            "install_events_month": 3,
-            "instances_week": 50,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -660,10 +660,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/autocalibration/screenshot.png",
         "abandoned": true,
         "stats": {
-            "instances_month": 144,
-            "install_events_month": 2,
-            "instances_week": 107,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -684,9 +684,9 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 2,
-            "install_events_month": 1,
-            "instances_week": 2,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -704,9 +704,9 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 33,
-            "install_events_month": 1,
-            "instances_week": 19,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -728,9 +728,9 @@
         "license": "AGPLv3",
         "abandoned": true,
         "stats": {
-            "instances_month": 37,
+            "instances_month": 0,
             "install_events_month": 0,
-            "instances_week": 29,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -752,9 +752,9 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 343,
-            "install_events_month": 17,
-            "instances_week": 266,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -777,10 +777,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/telegram/features3.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 4967,
-            "install_events_month": 400,
-            "instances_week": 3626,
-            "install_events_week": 80
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -802,10 +802,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/pushover/pushover.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 887,
-            "install_events_month": 25,
-            "instances_week": 724,
-            "install_events_week": 8
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -827,7 +827,7 @@
         "image": "http://www.thing-printer.com/wp-content/uploads/2016/04/octoprint-redeem.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 1,
+            "instances_month": 0,
             "install_events_month": 0,
             "instances_week": 0,
             "install_events_week": 0
@@ -847,9 +847,9 @@
         "license": "MIT",
         "abandoned": true,
         "stats": {
-            "instances_month": 396,
-            "install_events_month": 2,
-            "instances_week": 272,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -871,10 +871,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 3078,
-            "install_events_month": 122,
-            "instances_week": 2301,
-            "install_events_week": 24
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -895,10 +895,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 136,
-            "install_events_month": 12,
-            "instances_week": 93,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -919,10 +919,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 1041,
-            "install_events_month": 60,
-            "instances_week": 790,
-            "install_events_week": 6
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -944,10 +944,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/gcodebar/gcodebar.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 707,
-            "install_events_month": 29,
-            "instances_week": 542,
-            "install_events_week": 6
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -969,10 +969,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/detailedprogress/example-eta.jpg",
         "abandoned": false,
         "stats": {
-            "instances_month": 6438,
-            "install_events_month": 533,
-            "instances_week": 4799,
-            "install_events_week": 104
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -994,10 +994,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/slicer/screenshot1.png",
         "abandoned": true,
         "stats": {
-            "instances_month": 2010,
-            "install_events_month": 200,
-            "instances_week": 1385,
-            "install_events_week": 36
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1019,10 +1019,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/M117NavBar/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 489,
-            "install_events_month": 27,
-            "instances_week": 370,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1044,10 +1044,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/M117PopUp/screenshot_1.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 105,
-            "install_events_month": 8,
-            "instances_week": 78,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1069,10 +1069,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/filemanager/img1.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 6027,
-            "install_events_month": 382,
-            "instances_week": 4668,
-            "install_events_week": 78
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1093,10 +1093,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 542,
-            "install_events_month": 18,
-            "instances_week": 391,
-            "install_events_week": 4
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1118,10 +1118,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/smsnotifier/smsnotifier.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 404,
-            "install_events_month": 24,
-            "instances_week": 301,
-            "install_events_week": 4
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1143,10 +1143,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/fullscreen_webcam/main.jpg",
         "abandoned": false,
         "stats": {
-            "instances_month": 11261,
-            "install_events_month": 973,
-            "instances_week": 8477,
-            "install_events_week": 188
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1168,10 +1168,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/freemobilenotifier/freemobilenotifier.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 106,
-            "install_events_month": 8,
-            "instances_week": 72,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1193,10 +1193,10 @@
         "image": "https://raw.githubusercontent.com/kantlivelong/OctoPrint-PSUControl/master/psucontrol_navbar_settings.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 6676,
-            "install_events_month": 581,
-            "instances_week": 5269,
-            "install_events_week": 117
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1218,10 +1218,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/slic3r/logo.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 714,
-            "install_events_month": 75,
-            "instances_week": 369,
-            "install_events_week": 10
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1242,7 +1242,7 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 2,
+            "instances_month": 0,
             "install_events_month": 0,
             "instances_week": 0,
             "install_events_week": 0
@@ -1268,9 +1268,9 @@
         "disabled": "<p>This plugin can cause severe server issues in its current form.</p>\n",
         "abandoned": false,
         "stats": {
-            "instances_month": 4,
+            "instances_month": 0,
             "install_events_month": 0,
-            "instances_week": 2,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -1293,10 +1293,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/touchtest/example.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 1051,
-            "install_events_month": 94,
-            "instances_week": 782,
-            "install_events_week": 24
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1317,10 +1317,10 @@
         "license": "Apache 2",
         "abandoned": true,
         "stats": {
-            "instances_month": 275,
-            "install_events_month": 23,
-            "instances_week": 199,
-            "install_events_week": 6
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1338,10 +1338,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/gcodesystemcommands/gcodesystemcommands_settings.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 850,
-            "install_events_month": 39,
-            "instances_week": 652,
-            "install_events_week": 5
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1363,10 +1363,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/enclosure/Plugin_Temperature_Control.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 4319,
-            "install_events_month": 231,
-            "instances_week": 3196,
-            "install_events_week": 57
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1384,9 +1384,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/OctoRemote/Hardware1.JPG",
         "abandoned": false,
         "stats": {
-            "instances_month": 16,
-            "install_events_month": 1,
-            "instances_week": 11,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -1409,10 +1409,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/tempsgraph/zoom.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 1339,
-            "install_events_month": 80,
-            "instances_week": 1049,
-            "install_events_week": 15
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1433,10 +1433,10 @@
         "license": "Apache 2",
         "abandoned": true,
         "stats": {
-            "instances_month": 559,
-            "install_events_month": 33,
-            "instances_week": 398,
-            "install_events_week": 6
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1479,10 +1479,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/grbl/Grbl_logo.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 15,
-            "install_events_month": 6,
-            "instances_week": 9,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1500,9 +1500,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/OctoPNP/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 8,
-            "install_events_month": 3,
-            "instances_week": 2,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -1525,10 +1525,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/Octoslack/Octoslack-PrintProgress_SlackOnly.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 686,
-            "install_events_month": 34,
-            "instances_week": 568,
-            "install_events_week": 11
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1550,10 +1550,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/actioncommands/settings.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 1062,
-            "install_events_month": 44,
-            "instances_week": 817,
-            "install_events_week": 9
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1575,10 +1575,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/BLTouch/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 10767,
-            "install_events_month": 1246,
-            "instances_week": 7831,
-            "install_events_week": 246
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1600,10 +1600,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/polarcloud/polarcloud.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 380,
-            "install_events_month": 27,
-            "instances_week": 251,
-            "install_events_week": 6
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1624,10 +1624,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 4454,
-            "install_events_month": 386,
-            "instances_week": 3386,
-            "install_events_week": 74
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1649,10 +1649,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/simpleemergencystop/emergencystopsign.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 10644,
-            "install_events_month": 1032,
-            "instances_week": 7768,
-            "install_events_week": 182
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1674,10 +1674,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/youtubelive/tab_screenshot.jpg",
         "abandoned": false,
         "stats": {
-            "instances_month": 334,
-            "install_events_month": 47,
-            "instances_week": 242,
-            "install_events_week": 9
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1695,9 +1695,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/eeprom_mpselectmini/screen.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 123,
-            "install_events_month": 7,
-            "instances_week": 92,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -1716,9 +1716,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/Hangprinter/screenshot.jpg",
         "abandoned": false,
         "stats": {
-            "instances_month": 2,
+            "instances_month": 0,
             "install_events_month": 0,
-            "instances_week": 2,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -1740,10 +1740,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 7271,
-            "install_events_month": 559,
-            "instances_week": 5303,
-            "install_events_week": 105
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1761,9 +1761,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/filetypes/screen.jpg",
         "abandoned": true,
         "stats": {
-            "instances_month": 12,
+            "instances_month": 0,
             "install_events_month": 0,
-            "instances_week": 10,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -1786,10 +1786,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/CustomBackground/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 1438,
-            "install_events_month": 80,
-            "instances_week": 1088,
-            "install_events_week": 15
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1811,10 +1811,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/TPLinkSmartplug/screenshot_on.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 3993,
-            "install_events_month": 282,
-            "instances_week": 3149,
-            "install_events_week": 50
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1832,9 +1832,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/RepetierInformer/RepetierInformer-appNotification.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 13,
+            "instances_month": 0,
             "install_events_month": 0,
-            "instances_week": 8,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -1856,10 +1856,10 @@
         "license": "Apache 2",
         "abandoned": false,
         "stats": {
-            "instances_month": 5529,
-            "install_events_month": 497,
-            "instances_week": 4020,
-            "install_events_week": 96
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1877,10 +1877,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/GcodeEditor/edit_gcode.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 5020,
-            "install_events_month": 266,
-            "instances_week": 3763,
-            "install_events_week": 57
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1902,10 +1902,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/themeify/discorded_ss.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 21393,
-            "install_events_month": 1892,
-            "instances_week": 16133,
-            "install_events_week": 347
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1927,10 +1927,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/preheat/preheat.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 11830,
-            "install_events_month": 952,
-            "instances_week": 8837,
-            "install_events_week": 195
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1952,10 +1952,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/tasmota/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 1748,
-            "install_events_month": 109,
-            "instances_week": 1332,
-            "install_events_week": 19
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -1977,10 +1977,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/astroprint/astroprint-hero.jpg",
         "abandoned": false,
         "stats": {
-            "instances_month": 2697,
-            "install_events_month": 165,
-            "instances_week": 1955,
-            "install_events_week": 43
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2002,10 +2002,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/display_eta/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 2484,
-            "install_events_month": 206,
-            "instances_week": 1859,
-            "install_events_week": 33
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2027,10 +2027,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/TerminalCommands/terminal_tab.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 362,
-            "install_events_month": 50,
-            "instances_week": 259,
-            "install_events_week": 11
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2052,10 +2052,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/firmwareupdater/firmware-updater.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 21603,
-            "install_events_month": 3740,
-            "instances_week": 15856,
-            "install_events_week": 772
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2077,10 +2077,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/m73progress/m73progress.jpg",
         "abandoned": false,
         "stats": {
-            "instances_month": 3215,
-            "install_events_month": 319,
-            "instances_week": 2504,
-            "install_events_week": 67
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2101,10 +2101,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 1891,
-            "install_events_month": 163,
-            "instances_week": 1355,
-            "install_events_week": 34
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2126,10 +2126,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/floatingnavbar/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 6529,
-            "install_events_month": 393,
-            "instances_week": 4824,
-            "install_events_week": 79
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2151,10 +2151,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/mqttpublish/navbar.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 368,
-            "install_events_month": 18,
-            "instances_week": 291,
-            "install_events_week": 3
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2176,10 +2176,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/tasmota_mqtt/navbar.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 565,
-            "install_events_month": 21,
-            "instances_week": 396,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2201,10 +2201,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/M117SpeechSynthesis/settings.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 105,
-            "install_events_month": 9,
-            "instances_week": 81,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2226,10 +2226,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/taborder/settings.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 4878,
-            "install_events_month": 280,
-            "instances_week": 3655,
-            "install_events_week": 45
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2252,9 +2252,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/atxpihat/screenshot2.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 1,
+            "instances_month": 0,
             "install_events_month": 0,
-            "instances_week": 1,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -2277,10 +2277,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/ESPurna_RGB/screenshot1.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 51,
-            "install_events_month": 5,
-            "instances_week": 43,
-            "install_events_week": 3
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2301,10 +2301,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 681,
-            "install_events_month": 50,
-            "instances_week": 517,
-            "install_events_week": 6
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2322,10 +2322,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/CR10_Leveling/control.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 2225,
-            "install_events_month": 316,
-            "instances_week": 1612,
-            "install_events_week": 66
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2343,10 +2343,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/octorant/featured.jpg",
         "abandoned": false,
         "stats": {
-            "instances_month": 398,
-            "install_events_month": 23,
-            "instances_week": 311,
-            "install_events_week": 6
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2368,10 +2368,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/octolapse/tab_mini.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 26652,
-            "install_events_month": 2790,
-            "instances_week": 19485,
-            "install_events_week": 554
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2393,10 +2393,10 @@
         "image": "https://github.com/OllisGit/OctoPrint-DisplayLayerProgress/raw/master/screenshots/navbar.jpg",
         "abandoned": false,
         "stats": {
-            "instances_month": 24367,
-            "install_events_month": 3871,
-            "instances_week": 17343,
-            "install_events_week": 768
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2418,10 +2418,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/bedlevelvisualizer/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 38314,
-            "install_events_month": 6650,
-            "instances_week": 27157,
-            "install_events_week": 1360
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2443,10 +2443,10 @@
         "image": "https://raw.githubusercontent.com/OllisGit/OctoPrint-DeleteAfterPrint/master/screenshots/sidebar.jpg",
         "abandoned": false,
         "stats": {
-            "instances_month": 735,
-            "install_events_month": 39,
-            "instances_week": 586,
-            "install_events_week": 7
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2468,10 +2468,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/opitemp/opitemp.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 250,
-            "install_events_month": 20,
-            "instances_week": 186,
-            "install_events_week": 5
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2493,10 +2493,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/ipOnConnect/screenshot.jpg",
         "abandoned": false,
         "stats": {
-            "instances_month": 4626,
-            "install_events_month": 378,
-            "instances_week": 3433,
-            "install_events_week": 67
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2513,10 +2513,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 3139,
-            "install_events_month": 305,
-            "instances_week": 2329,
-            "install_events_week": 49
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2537,10 +2537,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 335,
-            "install_events_month": 16,
-            "instances_week": 255,
-            "install_events_week": 4
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2562,10 +2562,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/discordremote/featured.jpg",
         "abandoned": false,
         "stats": {
-            "instances_month": 745,
-            "install_events_month": 68,
-            "instances_week": 566,
-            "install_events_week": 10
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2611,10 +2611,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/sidebartempgraph/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 610,
-            "install_events_month": 31,
-            "instances_week": 457,
-            "install_events_week": 7
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2636,10 +2636,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/cancelobject/cancelobject.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 6854,
-            "install_events_month": 481,
-            "instances_week": 5176,
-            "install_events_week": 100
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2657,10 +2657,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/shutdownprinter/sidebar.JPG",
         "abandoned": false,
         "stats": {
-            "instances_month": 983,
-            "install_events_month": 98,
-            "instances_week": 679,
-            "install_events_week": 15
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2682,10 +2682,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/excluderegion/excluderegion-gcode-viewer.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 10920,
-            "install_events_month": 797,
-            "instances_week": 8290,
-            "install_events_week": 155
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2706,9 +2706,9 @@
         "license": "unlicence",
         "abandoned": false,
         "stats": {
-            "instances_month": 93,
-            "install_events_month": 1,
-            "instances_week": 69,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -2731,10 +2731,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/domoticz/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 117,
-            "install_events_month": 6,
-            "instances_week": 91,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2756,10 +2756,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/PrintTimeGenius/precise.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 31743,
-            "install_events_month": 2872,
-            "instances_week": 24516,
-            "install_events_week": 502
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2777,10 +2777,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/layerdisplay/layerdisplay.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 431,
-            "install_events_month": 6,
-            "instances_week": 315,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2801,10 +2801,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 3175,
-            "install_events_month": 367,
-            "instances_week": 2345,
-            "install_events_week": 66
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2825,10 +2825,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 249,
-            "install_events_month": 11,
-            "instances_week": 205,
-            "install_events_week": 5
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2850,10 +2850,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/MultipleUpload/open_files.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 852,
-            "install_events_month": 41,
-            "instances_week": 662,
-            "install_events_week": 3
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2875,10 +2875,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/rtmpstreamer/tab_screenshot.jpg",
         "abandoned": false,
         "stats": {
-            "instances_month": 322,
-            "install_events_month": 52,
-            "instances_week": 222,
-            "install_events_week": 4
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2900,10 +2900,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/klipper/message-log.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 3956,
-            "install_events_month": 670,
-            "instances_week": 2462,
-            "install_events_week": 126
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2924,9 +2924,9 @@
         "license": "GPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 69,
+            "instances_month": 0,
             "install_events_month": 0,
-            "instances_week": 49,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -2948,9 +2948,9 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 353,
-            "install_events_month": 11,
-            "instances_week": 252,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -2972,10 +2972,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 479,
-            "install_events_month": 9,
-            "instances_week": 404,
-            "install_events_week": 5
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -2997,10 +2997,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/wemoswitch/screenshot_on.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 345,
-            "install_events_month": 17,
-            "instances_week": 296,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3038,9 +3038,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/OctoAutoremote/settings.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 8,
-            "install_events_month": 1,
-            "instances_week": 6,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -3063,10 +3063,10 @@
         "image": "https://user-images.githubusercontent.com/15971213/45835939-45777700-bcc0-11e8-80c6-2bc31e08f3ec.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 35,
-            "install_events_month": 4,
-            "instances_week": 29,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3111,10 +3111,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 4378,
-            "install_events_month": 458,
-            "instances_week": 3123,
-            "install_events_week": 77
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3132,10 +3132,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/TuyaSmartplug/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 376,
-            "install_events_month": 62,
-            "instances_week": 256,
-            "install_events_week": 15
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3156,10 +3156,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 586,
-            "install_events_month": 30,
-            "instances_week": 454,
-            "install_events_week": 6
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3180,10 +3180,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 1487,
-            "install_events_month": 70,
-            "instances_week": 1140,
-            "install_events_week": 9
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3205,10 +3205,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/signalnotifier/signalnotifier.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 57,
-            "install_events_month": 1,
-            "instances_week": 44,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3230,10 +3230,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/MyMiniFactory/myminifactory_logo_128.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 140,
-            "install_events_month": 12,
-            "instances_week": 100,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3250,10 +3250,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 979,
-            "install_events_month": 390,
-            "instances_week": 771,
-            "install_events_week": 57
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3275,10 +3275,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/SlicerSettingsTab/main.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 228,
-            "install_events_month": 14,
-            "instances_week": 177,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3299,10 +3299,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 1180,
-            "install_events_month": 37,
-            "instances_week": 896,
-            "install_events_week": 5
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3320,10 +3320,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/BetterHeaterTimeout/timedout.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 3502,
-            "install_events_month": 163,
-            "instances_week": 2649,
-            "install_events_week": 33
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3370,10 +3370,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/hardwarepwm/settingsPage.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 52,
-            "install_events_month": 3,
-            "instances_week": 42,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3394,10 +3394,10 @@
         "license": "GPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 6,
-            "install_events_month": 2,
-            "instances_week": 5,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3419,10 +3419,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/printtrack/printtrack_title.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 193,
-            "install_events_month": 7,
-            "instances_week": 156,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3444,9 +3444,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/rgb_status/featured.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 94,
-            "install_events_month": 6,
-            "instances_week": 68,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -3469,7 +3469,7 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/xMattersIntegration/settings.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 2,
+            "instances_month": 0,
             "install_events_month": 0,
             "instances_week": 0,
             "install_events_week": 0
@@ -3493,10 +3493,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 1612,
-            "install_events_month": 113,
-            "instances_week": 1137,
-            "install_events_week": 23
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3518,10 +3518,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/bettergrblsupport/Grbl_logo.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 166,
-            "install_events_month": 62,
-            "instances_week": 89,
-            "install_events_week": 16
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3543,10 +3543,10 @@
         "image": "https://github.com/OllisGit/OctoPrint-DryRun/raw/master/screenshots/StateAndNavBar.jpg",
         "abandoned": false,
         "stats": {
-            "instances_month": 573,
-            "install_events_month": 29,
-            "instances_week": 425,
-            "install_events_week": 5
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3568,10 +3568,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/marlin_flasher/arduino_flash.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 1107,
-            "install_events_month": 159,
-            "instances_week": 785,
-            "install_events_week": 34
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3592,10 +3592,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 386,
-            "install_events_month": 14,
-            "instances_week": 280,
-            "install_events_week": 3
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3617,10 +3617,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/repeatingcommand/settings.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 17,
-            "install_events_month": 2,
-            "instances_week": 14,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3642,10 +3642,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/octoprint_complicated/demo.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 48,
-            "install_events_month": 3,
-            "instances_week": 38,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3667,9 +3667,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/PCA9685LEDStripControl/PCA9685_dev_board.jpg",
         "abandoned": false,
         "stats": {
-            "instances_month": 1,
+            "instances_month": 0,
             "install_events_month": 0,
-            "instances_week": 1,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -3692,9 +3692,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/preprintservice/workflow.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 56,
-            "install_events_month": 1,
-            "instances_week": 23,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -3717,10 +3717,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/octopod/print_finished.jpg",
         "abandoned": false,
         "stats": {
-            "instances_month": 5434,
-            "install_events_month": 392,
-            "instances_week": 4239,
-            "install_events_week": 86
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3742,10 +3742,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/uploadanything/settings.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 338,
-            "install_events_month": 32,
-            "instances_week": 256,
-            "install_events_week": 3
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3767,10 +3767,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/Change_Filament/cf_buttons.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 5340,
-            "install_events_month": 438,
-            "instances_week": 3941,
-            "install_events_week": 71
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3792,10 +3792,10 @@
         "image": "https://raw.githubusercontent.com/juniorRubyist/OctoPrint-OctoFlat/master/assets/octoprint_1.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 137,
-            "install_events_month": 6,
-            "instances_week": 99,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3817,10 +3817,10 @@
         "disabled": "<p>There has been a report of OctoPrint crashing on resume. Disabled until this issue has been clarified. See <a href=\"https://github.com/foosel/OctoPrint/issues/3213\">foosel/OctoPrint#3213</a> and <a href=\"https://github.com/draagc/OctoPrint-FilamentEncore/issues/3\">draagc/OctoPrint-FilamentEncore#3</a>.</p>\n",
         "abandoned": false,
         "stats": {
-            "instances_month": 17,
-            "install_events_month": 28,
-            "instances_week": 13,
-            "install_events_week": 3
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3842,10 +3842,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/PrinterAlerts/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 391,
-            "install_events_month": 15,
-            "instances_week": 302,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3866,9 +3866,9 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 76,
-            "install_events_month": 3,
-            "instances_week": 58,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -3890,10 +3890,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 1011,
-            "install_events_month": 68,
-            "instances_week": 846,
-            "install_events_week": 9
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3915,10 +3915,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/webcamSB/featured.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 2678,
-            "install_events_month": 207,
-            "instances_week": 1992,
-            "install_events_week": 36
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3939,9 +3939,9 @@
         "license": "Apache License 2.0",
         "abandoned": true,
         "stats": {
-            "instances_month": 12,
-            "install_events_month": 3,
-            "instances_week": 7,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -3964,10 +3964,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/dashboard/screenshot-2.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 20616,
-            "install_events_month": 3606,
-            "instances_week": 14886,
-            "install_events_week": 755
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -3985,10 +3985,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/octovox/alexa_response.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 562,
-            "install_events_month": 27,
-            "instances_week": 443,
-            "install_events_week": 7
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4010,10 +4010,10 @@
         "image": "https://github.com/OllisGit/Octoprint-AutostartPrint/raw/master/screenshots/plugin-settings.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 112,
-            "install_events_month": 12,
-            "instances_week": 85,
-            "install_events_week": 3
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4035,9 +4035,9 @@
         "image": "https://github.com/OllisGit/Octoprint-AutoLogout/raw/master/screenshots/plugin-settings.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 65,
-            "install_events_month": 4,
-            "instances_week": 44,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -4059,10 +4059,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 77,
-            "install_events_month": 4,
-            "instances_week": 53,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4080,9 +4080,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/orvibos20/power_on_dark.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 15,
-            "install_events_month": 1,
-            "instances_week": 12,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -4105,10 +4105,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/mmu2filamentselect/octoprusa.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 1095,
-            "install_events_month": 81,
-            "instances_week": 884,
-            "install_events_week": 14
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4126,9 +4126,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/filamentstorage/main.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 2,
-            "install_events_month": 1,
-            "instances_week": 2,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -4150,10 +4150,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 5412,
-            "install_events_month": 591,
-            "instances_week": 3944,
-            "install_events_week": 130
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4174,10 +4174,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 1275,
-            "install_events_month": 155,
-            "instances_week": 901,
-            "install_events_week": 29
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4199,10 +4199,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/influxdb/settings.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 170,
-            "install_events_month": 10,
-            "instances_week": 134,
-            "install_events_week": 5
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4224,10 +4224,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/obico/featured.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 8107,
-            "install_events_month": 5652,
-            "instances_week": 5090,
-            "install_events_week": 1037
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4248,10 +4248,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 10814,
-            "install_events_month": 568,
-            "instances_week": 6345,
-            "install_events_week": 115
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4273,10 +4273,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/UltimakerFormatPackage/screenshot_thumbnail.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 6084,
-            "install_events_month": 633,
-            "instances_week": 4403,
-            "install_events_week": 133
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4297,10 +4297,10 @@
         "license": "AGPLv3",
         "abandoned": true,
         "stats": {
-            "instances_month": 70,
-            "install_events_month": 3,
-            "instances_week": 51,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4322,9 +4322,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/mystromswitch/sidebar_on_button.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 59,
-            "install_events_month": 3,
-            "instances_week": 41,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -4347,10 +4347,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/resource_monitor/cpu.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 8700,
-            "install_events_month": 759,
-            "instances_week": 6520,
-            "install_events_week": 151
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4371,9 +4371,9 @@
         "license": "MIT",
         "abandoned": false,
         "stats": {
-            "instances_month": 156,
-            "install_events_month": 8,
-            "instances_week": 134,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -4396,10 +4396,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/PrusaLevelingGuide/bed.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 3181,
-            "install_events_month": 216,
-            "instances_week": 2499,
-            "install_events_week": 43
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4421,10 +4421,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/octohue/Featured-Image.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 361,
-            "install_events_month": 26,
-            "instances_week": 282,
-            "install_events_week": 6
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4446,10 +4446,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/progress_title/title.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 815,
-            "install_events_month": 49,
-            "instances_week": 634,
-            "install_events_week": 10
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4471,10 +4471,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/terminalcommandsextended/screenshot_tab.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 1263,
-            "install_events_month": 76,
-            "instances_week": 976,
-            "install_events_week": 13
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4496,10 +4496,10 @@
         "image": "https://raw.githubusercontent.com/LMS0815/OctoPrint-hueCommands/master/screenshots/huecommands_settings.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 92,
-            "install_events_month": 3,
-            "instances_week": 68,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4520,9 +4520,9 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 6,
+            "instances_month": 0,
             "install_events_month": 0,
-            "instances_week": 5,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -4544,10 +4544,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 591,
-            "install_events_month": 48,
-            "instances_week": 419,
-            "install_events_week": 3
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4568,9 +4568,9 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 301,
+            "instances_month": 0,
             "install_events_month": 0,
-            "instances_week": 212,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -4592,10 +4592,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 132,
-            "install_events_month": 15,
-            "instances_week": 84,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4616,10 +4616,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 360,
-            "install_events_month": 12,
-            "instances_week": 273,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4641,10 +4641,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/prusaslicerthumbnails/screenshot_thumbnail.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 10627,
-            "install_events_month": 862,
-            "instances_week": 8179,
-            "install_events_week": 186
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4666,10 +4666,10 @@
         "image": "https://github.com/LuckyX182/Filament_sensor_simplified/raw/master/screenshots/settings.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 854,
-            "install_events_month": 152,
-            "instances_week": 605,
-            "install_events_week": 28
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4691,10 +4691,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/continuousprint/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 936,
-            "install_events_month": 168,
-            "instances_week": 672,
-            "install_events_week": 38
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4716,10 +4716,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/FriendlyBeeper/settings.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 293,
-            "install_events_month": 34,
-            "instances_week": 227,
-            "install_events_week": 11
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4741,10 +4741,10 @@
         "image": "https://github.com/OllisGit/OctoPrint-TemperatureLegendMover/raw/master/screenshots/temperature-legend.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 169,
-            "install_events_month": 7,
-            "instances_week": 127,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4765,10 +4765,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 422,
-            "install_events_month": 40,
-            "instances_week": 280,
-            "install_events_week": 3
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4790,10 +4790,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/webhooks/Featured.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 385,
-            "install_events_month": 18,
-            "instances_week": 315,
-            "install_events_week": 3
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4814,10 +4814,10 @@
         "license": "Apache-2.0",
         "abandoned": false,
         "stats": {
-            "instances_month": 2104,
-            "install_events_month": 114,
-            "instances_week": 1601,
-            "install_events_week": 20
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4839,10 +4839,10 @@
         "image": "https://raw.githubusercontent.com/kantlivelong/OctoPrint-SmartPreheat/master/extra/screenshots/beforePrintStarted.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 1413,
-            "install_events_month": 112,
-            "instances_week": 1075,
-            "install_events_week": 15
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4864,9 +4864,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/terminalresponse/01.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 40,
-            "install_events_month": 1,
-            "instances_week": 26,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -4888,10 +4888,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 175,
-            "install_events_month": 45,
-            "instances_week": 119,
-            "install_events_week": 4
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4912,10 +4912,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 132,
-            "install_events_month": 12,
-            "instances_week": 107,
-            "install_events_week": 4
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4937,10 +4937,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/multilineterminal/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 345,
-            "install_events_month": 25,
-            "instances_week": 277,
-            "install_events_week": 7
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4962,10 +4962,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/ikea_tradfri/navbar.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 97,
-            "install_events_month": 15,
-            "instances_week": 74,
-            "install_events_week": 3
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -4987,10 +4987,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/CooldownNotification/settings.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 229,
-            "install_events_month": 7,
-            "instances_week": 178,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5012,10 +5012,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/PrintJobHistory/editPrintJob-dialog.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 3123,
-            "install_events_month": 266,
-            "instances_week": 2356,
-            "install_events_week": 52
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5036,10 +5036,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 272,
-            "install_events_month": 25,
-            "instances_week": 202,
-            "install_events_week": 4
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5061,9 +5061,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/lametric/screenshot_1.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 54,
-            "install_events_month": 3,
-            "instances_week": 44,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -5086,10 +5086,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/M300Player/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 173,
-            "install_events_month": 13,
-            "instances_week": 134,
-            "install_events_week": 3
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5110,10 +5110,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 151,
-            "install_events_month": 6,
-            "instances_week": 121,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5135,10 +5135,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/stickypad/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 293,
-            "install_events_month": 13,
-            "instances_week": 234,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5160,10 +5160,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/webcam_iframe/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 215,
-            "install_events_month": 38,
-            "instances_week": 144,
-            "install_events_week": 3
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5184,10 +5184,10 @@
         "license": "MIT",
         "abandoned": false,
         "stats": {
-            "instances_month": 521,
-            "install_events_month": 42,
-            "instances_week": 382,
-            "install_events_week": 5
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5209,10 +5209,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/widescreen/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 2531,
-            "install_events_month": 224,
-            "instances_week": 1909,
-            "install_events_week": 45
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5234,10 +5234,10 @@
         "image": "https://github.com/egguy/OctoPrint-Prusa-Mini-ETA/raw/master/assets/img/Print-Time-Left.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 671,
-            "install_events_month": 95,
-            "instances_week": 525,
-            "install_events_week": 20
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5259,10 +5259,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/signalclirestapi/config1.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 26,
-            "install_events_month": 2,
-            "instances_week": 21,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5284,9 +5284,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/SMuFF/SMuFF-V5.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 10,
-            "install_events_month": 3,
-            "instances_week": 6,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -5309,10 +5309,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/consolidate_temp_control/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 1771,
-            "install_events_month": 133,
-            "instances_week": 1375,
-            "install_events_week": 25
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5330,10 +5330,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/simple_filament_change_buttons/sfc_buttons.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 1734,
-            "install_events_month": 198,
-            "instances_week": 1319,
-            "install_events_week": 38
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5355,10 +5355,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/homeassistant/hassio.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 2562,
-            "install_events_month": 248,
-            "instances_week": 2071,
-            "install_events_week": 48
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5380,10 +5380,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/z_probe_offset/z_probe_offset_control.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 3595,
-            "install_events_month": 458,
-            "instances_week": 2653,
-            "install_events_week": 99
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5405,10 +5405,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/geeks3d/featured.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 375,
-            "install_events_month": 16,
-            "instances_week": 286,
-            "install_events_week": 4
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5430,10 +5430,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/RewriteM600/M600-in-action.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 310,
-            "install_events_month": 32,
-            "instances_week": 227,
-            "install_events_week": 6
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5455,10 +5455,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/ngrok/ngrok_navbar.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 385,
-            "install_events_month": 49,
-            "instances_week": 271,
-            "install_events_week": 13
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5480,10 +5480,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/DuCalibrator/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 109,
-            "install_events_month": 14,
-            "instances_week": 80,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5505,10 +5505,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/ThermalRunaway/ThermalRunaway-config.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 289,
-            "install_events_month": 47,
-            "instances_week": 207,
-            "install_events_week": 11
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5530,10 +5530,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/macro/main.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 579,
-            "install_events_month": 49,
-            "instances_week": 420,
-            "install_events_week": 11
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5555,9 +5555,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/swapxy/swapxy_controls.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 24,
-            "install_events_month": 2,
-            "instances_week": 16,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -5580,10 +5580,10 @@
         "image": "https://raw.githubusercontent.com/fmalekpour/OctoPrint-Gpioshutdown/master/screenshots/screen01.jpg",
         "abandoned": false,
         "stats": {
-            "instances_month": 316,
-            "install_events_month": 15,
-            "instances_week": 219,
-            "install_events_week": 4
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5605,10 +5605,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/M150Control/screenshot.jpg",
         "abandoned": false,
         "stats": {
-            "instances_month": 104,
-            "install_events_month": 5,
-            "instances_week": 78,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5630,9 +5630,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/gridspace/Kiri-In-OctoPrint.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 96,
-            "install_events_month": 4,
-            "instances_week": 72,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -5655,10 +5655,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/ArduCamFocus/ControlScreenShot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 400,
-            "install_events_month": 54,
-            "instances_week": 282,
-            "install_events_week": 12
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5680,10 +5680,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/cooldownfan/cool-down-fan-config-screen.jpg",
         "abandoned": false,
         "stats": {
-            "instances_month": 146,
-            "install_events_month": 9,
-            "instances_week": 103,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5705,10 +5705,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/marlinbft/marlinbft-feature.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 166,
-            "install_events_month": 17,
-            "instances_week": 117,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5730,10 +5730,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/printhistory/printhistory.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 1269,
-            "install_events_month": 114,
-            "instances_week": 1007,
-            "install_events_week": 19
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5755,10 +5755,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/ws281x_led_status/ws281x_settings.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 929,
-            "install_events_month": 84,
-            "instances_week": 672,
-            "install_events_week": 17
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5780,10 +5780,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/virtual_printerconfig/settings.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 233,
-            "install_events_month": 20,
-            "instances_week": 160,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5805,10 +5805,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/consolidatedtabs/screenshot_tab.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 1185,
-            "install_events_month": 97,
-            "instances_week": 875,
-            "install_events_week": 14
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5830,9 +5830,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/octotweet/twitter.jpg",
         "abandoned": false,
         "stats": {
-            "instances_month": 39,
-            "install_events_month": 2,
-            "instances_week": 29,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -5854,9 +5854,9 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 26,
-            "install_events_month": 2,
-            "instances_week": 22,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -5878,10 +5878,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 374,
-            "install_events_month": 11,
-            "instances_week": 256,
-            "install_events_week": 3
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5903,10 +5903,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/prettygcode/PrettyGcode-Screen1.jpg",
         "abandoned": false,
         "stats": {
-            "instances_month": 13670,
-            "install_events_month": 1635,
-            "instances_week": 10313,
-            "install_events_week": 279
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5928,10 +5928,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/procastinator/settings.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 294,
-            "install_events_month": 14,
-            "instances_week": 220,
-            "install_events_week": 3
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5953,10 +5953,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/SpoolManager/editSpool-dialog.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 3802,
-            "install_events_month": 357,
-            "instances_week": 2805,
-            "install_events_week": 71
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -5977,10 +5977,10 @@
         "license": "MIT",
         "abandoned": false,
         "stats": {
-            "instances_month": 18705,
-            "install_events_month": 3015,
-            "instances_week": 13357,
-            "install_events_week": 611
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6002,10 +6002,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/backupscheduler/screenshot_settings.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 1804,
-            "install_events_month": 125,
-            "instances_week": 1432,
-            "install_events_week": 20
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6027,10 +6027,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/googledrivebackup/configuration_step7.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 1138,
-            "install_events_month": 113,
-            "instances_week": 866,
-            "install_events_week": 17
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6048,10 +6048,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/terminalmessaging/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 681,
-            "install_events_month": 19,
-            "instances_week": 538,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6097,10 +6097,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/marlingcodedocumentation/screenshot-example-command.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 2185,
-            "install_events_month": 209,
-            "instances_week": 1635,
-            "install_events_week": 33
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6118,10 +6118,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/MakerOS/Octoprint-Makeros-projects.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 19,
-            "install_events_month": 3,
-            "instances_week": 16,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6143,10 +6143,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/wifistatus/WiFiStatus.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 3016,
-            "install_events_month": 363,
-            "instances_week": 2185,
-            "install_events_week": 87
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6168,10 +6168,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/raisecloud/Raise3D.jpg",
         "abandoned": false,
         "stats": {
-            "instances_month": 654,
-            "install_events_month": 50,
-            "instances_week": 490,
-            "install_events_week": 12
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6192,10 +6192,10 @@
         "license": "GPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 599,
-            "install_events_month": 86,
-            "instances_week": 443,
-            "install_events_week": 19
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6217,9 +6217,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/mattacloud/mattacloud.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 26,
+            "instances_month": 0,
             "install_events_month": 0,
-            "instances_week": 22,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -6242,10 +6242,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/arc_welder/tab_full.jpg",
         "abandoned": false,
         "stats": {
-            "instances_month": 8069,
-            "install_events_month": 1160,
-            "instances_week": 6056,
-            "install_events_week": 217
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6267,10 +6267,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/octoeverywhere/homepage.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 22266,
-            "install_events_month": 3909,
-            "instances_week": 17611,
-            "install_events_week": 997
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6292,9 +6292,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/lightsout/settings_screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 129,
-            "install_events_month": 9,
-            "instances_week": 95,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -6317,10 +6317,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/autologin_config/config.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 652,
-            "install_events_month": 42,
-            "instances_week": 504,
-            "install_events_week": 13
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6338,10 +6338,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/gcodeleveling/point-entry.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 117,
-            "install_events_month": 13,
-            "instances_week": 85,
-            "install_events_week": 4
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6359,10 +6359,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/uicustomizer/responsive.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 6459,
-            "install_events_month": 828,
-            "instances_week": 4839,
-            "install_events_week": 161
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6383,10 +6383,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 170,
-            "install_events_month": 10,
-            "instances_week": 141,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6408,10 +6408,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/display_panel/in-situ.jpeg",
         "abandoned": false,
         "stats": {
-            "instances_month": 86,
-            "install_events_month": 4,
-            "instances_week": 66,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6433,10 +6433,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/octoprint_nanny/screenshot_2.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 45,
-            "install_events_month": 8,
-            "instances_week": 22,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6454,10 +6454,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/LongPathSDList/after.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 380,
-            "install_events_month": 28,
-            "instances_week": 297,
-            "install_events_week": 4
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6479,10 +6479,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/TimeToFilament/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 676,
-            "install_events_month": 53,
-            "instances_week": 529,
-            "install_events_week": 9
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6504,10 +6504,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/webdavbackup/configuration_screen.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 128,
-            "install_events_month": 8,
-            "instances_week": 100,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6529,9 +6529,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/OctoBuddy/ShelfMount1.jpg",
         "abandoned": false,
         "stats": {
-            "instances_month": 117,
-            "install_events_month": 11,
-            "instances_week": 85,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -6554,10 +6554,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/octolight/screenshoot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 661,
-            "install_events_month": 44,
-            "instances_week": 479,
-            "install_events_week": 6
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6579,10 +6579,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/usb_keyboard/example_qwerty.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 193,
-            "install_events_month": 15,
-            "instances_week": 137,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6600,10 +6600,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/toptemp/main.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 2253,
-            "install_events_month": 149,
-            "instances_week": 1698,
-            "install_events_week": 32
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6625,10 +6625,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/meatpack/meatpack.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 295,
-            "install_events_month": 46,
-            "instances_week": 218,
-            "install_events_week": 6
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6650,10 +6650,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/SimplyPrint/showcase_feature_image.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 946,
-            "install_events_month": 63,
-            "instances_week": 653,
-            "install_events_week": 13
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6675,9 +6675,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/robotcontrol/Screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 13,
-            "install_events_month": 1,
-            "instances_week": 10,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -6696,10 +6696,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/inlineconfirm/cancel_print_button.gif",
         "abandoned": false,
         "stats": {
-            "instances_month": 408,
-            "install_events_month": 15,
-            "instances_week": 323,
-            "install_events_week": 6
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6721,10 +6721,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/gpiocontrol/sidebar.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 1430,
-            "install_events_month": 131,
-            "instances_week": 1049,
-            "install_events_week": 36
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6745,10 +6745,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 586,
-            "install_events_month": 79,
-            "instances_week": 436,
-            "install_events_week": 14
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6769,10 +6769,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 1304,
-            "install_events_month": 132,
-            "instances_week": 990,
-            "install_events_week": 20
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6794,10 +6794,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/ublmeshedit/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 515,
-            "install_events_month": 51,
-            "instances_week": 368,
-            "install_events_week": 10
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6819,10 +6819,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/ignorepausedforuser/ignorepausedforuser.jpg",
         "abandoned": false,
         "stats": {
-            "instances_month": 78,
-            "install_events_month": 6,
-            "instances_week": 62,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6844,10 +6844,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/translatemodel/viewerGraphic.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 389,
-            "install_events_month": 31,
-            "instances_week": 297,
-            "install_events_week": 4
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6869,10 +6869,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/youtube_timelapse/configuration_step7.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 238,
-            "install_events_month": 26,
-            "instances_week": 170,
-            "install_events_week": 6
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6894,10 +6894,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/octorelay/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 1187,
-            "install_events_month": 119,
-            "instances_week": 893,
-            "install_events_week": 23
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6918,9 +6918,9 @@
         "license": "MIT",
         "abandoned": false,
         "stats": {
-            "instances_month": 67,
+            "instances_month": 0,
             "install_events_month": 0,
-            "instances_week": 48,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -6943,10 +6943,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/OctoText/octotext-email.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 611,
-            "install_events_month": 56,
-            "instances_week": 479,
-            "install_events_week": 16
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6967,10 +6967,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 49,
-            "install_events_month": 2,
-            "instances_week": 35,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -6991,10 +6991,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 848,
-            "install_events_month": 100,
-            "instances_week": 663,
-            "install_events_week": 17
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7016,10 +7016,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/wled/wled-octoprint.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 410,
-            "install_events_month": 53,
-            "instances_week": 317,
-            "install_events_week": 11
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7041,10 +7041,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/networkhealth/logo.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 715,
-            "install_events_month": 44,
-            "instances_week": 557,
-            "install_events_week": 10
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7065,10 +7065,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 449,
-            "install_events_month": 59,
-            "instances_week": 336,
-            "install_events_week": 13
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7090,10 +7090,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/camerasettings/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 7646,
-            "install_events_month": 1105,
-            "instances_week": 5563,
-            "install_events_week": 211
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7115,10 +7115,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/filament_scale/display.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 123,
-            "install_events_month": 10,
-            "instances_week": 92,
-            "install_events_week": 3
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7139,10 +7139,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 222,
-            "install_events_month": 34,
-            "instances_week": 167,
-            "install_events_week": 6
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7164,10 +7164,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/octodashcompanion/screenshot_settings.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 3061,
-            "install_events_month": 215,
-            "instances_week": 2144,
-            "install_events_week": 41
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7188,9 +7188,9 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 16,
+            "instances_month": 0,
             "install_events_month": 0,
-            "instances_week": 14,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -7212,10 +7212,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 69,
-            "install_events_month": 12,
-            "instances_week": 56,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7237,10 +7237,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/calibrationcompanion/setup.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 2561,
-            "install_events_month": 280,
-            "instances_week": 1851,
-            "install_events_week": 42
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7262,10 +7262,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/mqtt_for_psucontrol/screenshot_settings.PNG",
         "abandoned": false,
         "stats": {
-            "instances_month": 168,
-            "install_events_month": 14,
-            "instances_week": 117,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7286,10 +7286,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 677,
-            "install_events_month": 88,
-            "instances_week": 529,
-            "install_events_week": 16
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7310,10 +7310,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 234,
-            "install_events_month": 20,
-            "instances_week": 190,
-            "install_events_week": 7
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7334,10 +7334,10 @@
         "license": "MIT",
         "abandoned": false,
         "stats": {
-            "instances_month": 1616,
-            "install_events_month": 125,
-            "instances_week": 1240,
-            "install_events_week": 19
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7359,10 +7359,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/navbarclock/NavbarClock.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 620,
-            "install_events_month": 68,
-            "instances_week": 457,
-            "install_events_week": 9
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7384,9 +7384,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/fortune/fortune-1.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 79,
+            "instances_month": 0,
             "install_events_month": 0,
-            "instances_week": 62,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -7409,10 +7409,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/ArducamCameraControl/ArducamCameraControl.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 323,
-            "install_events_month": 50,
-            "instances_week": 223,
-            "install_events_week": 13
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7434,10 +7434,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/gpiofancontroller/featured.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 217,
-            "install_events_month": 38,
-            "instances_week": 163,
-            "install_events_week": 7
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7459,10 +7459,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/gpiorgbcontroller/featured.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 100,
-            "install_events_month": 13,
-            "instances_week": 68,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7483,10 +7483,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 87,
-            "install_events_month": 15,
-            "instances_week": 64,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7508,9 +7508,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/mote_lighting_control/mote_lights.jpg",
         "abandoned": false,
         "stats": {
-            "instances_month": 27,
-            "install_events_month": 3,
-            "instances_week": 22,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -7533,10 +7533,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/matrix_notifier/printstarted.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 46,
-            "install_events_month": 4,
-            "instances_week": 34,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7558,10 +7558,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/physicalbutton/PhysicalButton_Logo.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 289,
-            "install_events_month": 42,
-            "instances_week": 229,
-            "install_events_week": 7
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7583,10 +7583,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/gcode_macro/settings.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 395,
-            "install_events_month": 39,
-            "instances_week": 308,
-            "install_events_week": 7
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7608,10 +7608,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/autobim/ui_1.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 549,
-            "install_events_month": 65,
-            "instances_week": 415,
-            "install_events_week": 19
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7633,10 +7633,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/Chituboard/octoprint_chituboard.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 46,
-            "install_events_month": 22,
-            "instances_week": 28,
-            "install_events_week": 8
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7658,10 +7658,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/plotlytempgraph/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 544,
-            "install_events_month": 39,
-            "instances_week": 441,
-            "install_events_week": 11
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7683,10 +7683,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/printscheduler/screenshot_tab.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 772,
-            "install_events_month": 89,
-            "instances_week": 601,
-            "install_events_week": 25
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7708,10 +7708,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/ups/ups_navbar.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 186,
-            "install_events_month": 15,
-            "instances_week": 145,
-            "install_events_week": 3
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7733,10 +7733,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/SafetyPrinter/icon.PNG",
         "abandoned": false,
         "stats": {
-            "instances_month": 102,
-            "install_events_month": 5,
-            "instances_week": 64,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7758,10 +7758,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/thingiverse_downloader/demo.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 908,
-            "install_events_month": 99,
-            "instances_week": 648,
-            "install_events_week": 17
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7783,9 +7783,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/fractalbridge/fractal-home.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 43,
-            "install_events_month": 1,
-            "instances_week": 30,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -7808,10 +7808,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/bedcooldown/graph.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 1115,
-            "install_events_month": 58,
-            "instances_week": 840,
-            "install_events_week": 7
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7832,10 +7832,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 54,
-            "install_events_month": 4,
-            "instances_week": 41,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7857,10 +7857,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/psucontrol_mqtt/screenshot_settings.PNG",
         "abandoned": false,
         "stats": {
-            "instances_month": 144,
-            "install_events_month": 22,
-            "instances_week": 105,
-            "install_events_week": 4
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7882,10 +7882,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/octoapp/carousel.webp",
         "abandoned": false,
         "stats": {
-            "instances_month": 2746,
-            "install_events_month": 313,
-            "instances_week": 2111,
-            "install_events_week": 69
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7907,9 +7907,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/BLOCKS/Blocks_VECTORIZADOpreto.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 41,
-            "install_events_month": 4,
-            "instances_week": 25,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -7931,10 +7931,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 68,
-            "install_events_month": 5,
-            "instances_week": 52,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7956,10 +7956,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/onedrive_backup/config-3.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 841,
-            "install_events_month": 47,
-            "instances_week": 669,
-            "install_events_week": 5
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -7981,10 +7981,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/gpiostatus/GPIO.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 616,
-            "install_events_month": 79,
-            "instances_week": 468,
-            "install_events_week": 10
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -8006,10 +8006,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/shutdownbuttonledbuzzer/circuit.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 119,
-            "install_events_month": 10,
-            "instances_week": 84,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -8031,10 +8031,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/activeconnections/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 585,
-            "install_events_month": 33,
-            "instances_week": 462,
-            "install_events_week": 6
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -8056,10 +8056,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/googledrivefiles/screenshot_filelist.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 540,
-            "install_events_month": 67,
-            "instances_week": 386,
-            "install_events_week": 11
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -8081,10 +8081,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/printwatch/printwatch.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 851,
-            "install_events_month": 93,
-            "instances_week": 581,
-            "install_events_week": 11
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -8106,10 +8106,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/timelapsepurger/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 879,
-            "install_events_month": 196,
-            "instances_week": 642,
-            "install_events_week": 50
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -8131,10 +8131,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/CalibrationTools/featuredimage.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 2803,
-            "install_events_month": 748,
-            "instances_week": 1902,
-            "install_events_week": 134
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -8156,10 +8156,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/emc2101/EMC_ss_0.0.4-2.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 42,
-            "install_events_month": 6,
-            "instances_week": 27,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -8205,9 +8205,9 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/openmiko/screenshot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 89,
-            "install_events_month": 34,
-            "instances_week": 41,
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
             "install_events_week": 0
         }
     },
@@ -8230,10 +8230,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/ServoSpindle/Grbl_logo.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 17,
-            "install_events_month": 10,
-            "instances_week": 10,
-            "install_events_week": 4
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -8255,10 +8255,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/usbrelaycontrol/sidebar.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 146,
-            "install_events_month": 24,
-            "instances_week": 93,
-            "install_events_week": 8
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -8280,10 +8280,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/cnc_gcodeviewer/crown_screen_shot.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 150,
-            "install_events_month": 34,
-            "instances_week": 94,
-            "install_events_week": 12
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -8305,10 +8305,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/wyze/OctoPrint-Wyze.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 31,
-            "install_events_month": 8,
-            "instances_week": 20,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -8330,10 +8330,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/pwmbuzzer/composer.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 97,
-            "install_events_month": 20,
-            "instances_week": 77,
-            "install_events_week": 1
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -8355,10 +8355,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/framer/screen.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 78,
-            "install_events_month": 17,
-            "instances_week": 53,
-            "install_events_week": 5
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -8379,10 +8379,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 234,
-            "install_events_month": 131,
-            "instances_week": 136,
-            "install_events_week": 26
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -8404,10 +8404,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/detector2/errorPreview.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 618,
-            "install_events_month": 102,
-            "instances_week": 453,
-            "install_events_week": 23
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -8428,10 +8428,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 21,
-            "install_events_month": 16,
-            "instances_week": 9,
-            "install_events_week": 3
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -8452,10 +8452,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 50,
-            "install_events_month": 17,
-            "instances_week": 36,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -8477,10 +8477,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/bedready/screenshot_bed_not_ready.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 462,
-            "install_events_month": 140,
-            "instances_week": 350,
-            "install_events_week": 24
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -8502,10 +8502,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/extrafileinfo/file.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 847,
-            "install_events_month": 31,
-            "instances_week": 655,
-            "install_events_week": 2
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -8526,10 +8526,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 949,
-            "install_events_month": 523,
-            "instances_week": 601,
-            "install_events_week": 82
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -8550,10 +8550,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 22,
-            "install_events_month": 24,
-            "instances_week": 17,
-            "install_events_week": 4
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -8575,10 +8575,10 @@
         "image": "https://plugins.octoprint.org/assets/img/plugins/queue/queue.png",
         "abandoned": false,
         "stats": {
-            "instances_month": 119,
-            "install_events_month": 118,
-            "instances_week": 109,
-            "install_events_week": 67
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     },
 
@@ -8599,10 +8599,10 @@
         "license": "AGPLv3",
         "abandoned": false,
         "stats": {
-            "instances_month": 5,
-            "install_events_month": 5,
-            "instances_week": 5,
-            "install_events_week": 5
+            "instances_month": 0,
+            "install_events_month": 0,
+            "instances_week": 0,
+            "install_events_week": 0
         }
     }
 ]
